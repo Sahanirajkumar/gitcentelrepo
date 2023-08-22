@@ -1,0 +1,4 @@
+#!/bin/bash
+echo"enter two number"&a,&b
+echo"$a+$b"
+echo""sum of the two number
